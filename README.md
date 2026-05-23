@@ -2,7 +2,10 @@
 
 > An AI-powered Streamlit app that generates creative restaurant names and menus using LangChain and Groq's lightning-fast LLM.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://github.com/anooshdhamshetty/restaurant_generator)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://restaurantgenerator-aefrdd.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/anooshdhamshetty/restaurant_generator)
+
+### 🔗 [Try It Live Now →](https://restaurantgenerator-aefrdd.streamlit.app/)
 
 ---
 
@@ -68,13 +71,13 @@ streamlit run app.py
 
 ### **Streamlit Cloud** (Recommended ⭐)
 
-1. Push code to GitHub (done!)
+1. Push code to GitHub ✅ (Done!)
 2. Go to [streamlit.io/cloud](https://streamlit.io/cloud)
 3. Click **"New app"** → Select your repo
 4. Add `GROQ_API_KEY` in **Secrets**
 5. Done! 🎉
 
-**App URL:** `https://anooshdhamshetty-restaurant-generator.streamlit.app`
+**🌐 Live App:** https://restaurantgenerator-aefrdd.streamlit.app/
 
 ### Other Platforms
 
